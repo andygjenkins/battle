@@ -3,7 +3,7 @@ require 'spec_helper'
 describe Player do
 
   subject(:dave) { described_class.new("Dave") }
-  let(:mittens) { described_class.new("Mittens") }
+  subject(:mittens) { described_class.new("Mittens") }
 
   describe '#initialize' do
     it 'starts with 50HP' do
