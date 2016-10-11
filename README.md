@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Battle #
 
 Take the fight to your greatest rivals in this online battle simulator!
@@ -7,3 +8,6 @@ Take the fight to your greatest rivals in this online battle simulator!
 ```shell
 ruby app.rb
 ```
+=======
+
+>>>>>>> f47f61f81c7b537e9ff8bd49f29b72209a6e1b89
